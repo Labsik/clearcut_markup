@@ -11,8 +11,3 @@ Nice to have:
  - Use media-queries (make your page responsive);
  - Create slider for images in a top section (under navigation menu);
  - Use custom sprites for icons; 
-
-	
-  
-  
-![clearcut](https://user-images.githubusercontent.com/43314248/115224381-74bf2080-a115-11eb-8a7d-39f32fc216ba.jpg)
